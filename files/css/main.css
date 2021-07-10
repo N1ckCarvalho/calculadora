@@ -1,0 +1,27 @@
+#calc_container
+{
+    width: 250px;
+    height: 350px;
+    background-color: #4d4d4d70;
+    margin: 100px auto ;
+}
+#display
+{
+     width: 200px;
+     height: 25px;
+     background-color: white;
+     margin: 10px auto;   
+}
+#buttons_container
+{
+    width: 200px;
+    height: 295px;
+    background-color: #838383;
+    margin: 10px auto;
+}
+.redondos
+{
+    border-radius: 50%;
+    background-color: #acacac;
+    padding: 5px ; 
+}
